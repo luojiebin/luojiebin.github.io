@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Design Data Schema with ORM
-category: python web
 date: 2016-07-23 15:13:31
 ---
 
